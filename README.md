@@ -1,8 +1,6 @@
 # BO2 Deathmachine Power Up Mod
 
-**Hello all!**
-
-Today I am releasing a BO2 Deathmachine Power Up Mod!
+BO2 Deathmachine Power Up Mod!
 
 *Note: This was made for people to add to their mods, but I have still given out a mod if you'd like to try it out*
 
